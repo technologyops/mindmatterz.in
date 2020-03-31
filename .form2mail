@@ -1,0 +1,10 @@
+# comment lines and empty lines are ignored
+# leading/trailing spaces are ignored
+
+    smtpsvr: mail.mindmatterz.in
+   authuser: webenquiry@enmail.com
+   authpass: kar71man
+     rcptto: noel@mindmatterz.in
+    subject: webform submission
+redirecturl: http://www.mindmatterz.in/
+
